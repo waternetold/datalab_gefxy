@@ -16,7 +16,7 @@ That's all there is to it!
 Use in the commandline with Python by calling
 
 <pre>
-python extractxy.py <your path to the gef files>
+python extractxy.py [your path to the gef files]
 </pre>
 
 for example;
